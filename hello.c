@@ -6,5 +6,6 @@ Date: 2020/1/15
 
 int main(void) {
 printf("Mark Forget\n");
+printf("Mathematics\n");
 return 0;
 }
