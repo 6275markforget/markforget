@@ -1,6 +1,7 @@
 /* "Hack 1", My first Hack
 Name: Mark Forget
 Date: 2020/1/15
+Collaborator: Luke Burwell
 */
 #include <stdio.h>
 
